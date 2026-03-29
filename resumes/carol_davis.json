@@ -1,0 +1,60 @@
+{
+    "id": "carol_davis_003",
+    "name": "Carol Davis",
+    "email": "carol.davis@email.com",
+    "phone": "+1-555-0103",
+    "location": "Seattle, WA",
+    "summary": "DevOps Engineer with 6 years of experience in JavaScript full-stack development. Expert in Kubernetes, Docker, and cloud infrastructure.",
+    
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Jenkins",
+        "GitHub Actions"
+    ],
+    
+    "years_experience": 6,
+    
+    "education": "Bachelor's degree in Software Engineering from University of Washington",
+    
+    "experience": [
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "CloudFirst Corp.",
+            "duration": "2021 - Present",
+            "description": "Lead DevOps initiatives. Managed Kubernetes clusters handling 100K+ requests/second. Implemented infrastructure as code with Terraform."
+        },
+        {
+            "title": "Full-Stack Developer",
+            "company": "WebApps Inc.",
+            "duration": "2018 - 2021",
+            "description": "Developed React/Node.js applications. Set up CI/CD pipelines and containerized applications."
+        }
+    ],
+    
+    "certifications": [
+        "AWS Solutions Architect Associate",
+        "Certified Kubernetes Administrator"
+    ],
+    
+    "strengths": [
+        "Kubernetes expertise",
+        "Strong JavaScript/Node.js skills",
+        "Cloud infrastructure management",
+        "DevOps best practices"
+    ],
+    
+    "gaps": [
+        "No Python experience",
+        "No PostgreSQL experience",
+        "Limited backend development focus"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "bob_smith_002",
+    "name": "Bob Smith",
+    "email": "bob.smith@email.com",
+    "phone": "+1-555-0102",
+    "location": "Austin, TX",
+    "summary": "Mid-level Python developer specializing in backend development and database optimization. Strong PostgreSQL expertise with 4 years of professional experience.",
+    
+    "skills": [
+        "Python",
+        "JavaScript",
+        "React.js",
+        "Django",
+        "Flask",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Git",
+        "Linux",
+        "REST APIs"
+    ],
+    
+    "years_experience": 4,
+    
+    "education": "Bachelor's degree in Computer Science from University of Texas",
+    
+    "experience": [
+        {
+            "title": "Python Developer",
+            "company": "DataTech Solutions",
+            "duration": "2021 - Present",
+            "description": "Backend development using Python/Django. Database optimization and query tuning for PostgreSQL."
+        },
+        {
+            "title": "Junior Developer",
+            "company": "Local Software Co.",
+            "duration": "2019 - 2021",
+            "description": "Full-stack development with Python and React. Built internal tools and dashboards."
+        }
+    ],
+    
+    "certifications": [],
+    
+    "strengths": [
+        "Strong Python development skills",
+        "PostgreSQL expertise",
+        "Backend API development"
+    ],
+    
+    "gaps": [
+        "Limited AWS/cloud experience",
+        "No Node.js experience",
+        "Limited leadership experience"
+    ]
+}

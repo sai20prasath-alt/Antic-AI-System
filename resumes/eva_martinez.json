@@ -1,0 +1,65 @@
+{
+    "id": "eva_martinez_005",
+    "name": "Eva Martinez",
+    "email": "eva.martinez@email.com",
+    "phone": "+1-555-0105",
+    "location": "New York, NY",
+    "summary": "Full-Stack Developer with 6 years experience building modern web applications. Expertise in Python, JavaScript, React, Node.js, and AWS. Active open-source contributor.",
+    
+    "skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "AWS",
+        "Docker",
+        "GraphQL",
+        "REST APIs",
+        "Git",
+        "Agile"
+    ],
+    
+    "years_experience": 6,
+    
+    "education": "Bachelor's degree in Computer Science from Columbia University",
+    
+    "experience": [
+        {
+            "title": "Senior Full-Stack Developer",
+            "company": "FinTech Innovations",
+            "duration": "2021 - Present",
+            "description": "Lead development of customer-facing financial applications using React and Node.js. Architected microservices on AWS. Mentored junior developers."
+        },
+        {
+            "title": "Full-Stack Developer",
+            "company": "E-Commerce Plus",
+            "duration": "2018 - 2021",
+            "description": "Built scalable e-commerce platform using Python/Django backend and React frontend. Implemented payment processing integrations."
+        }
+    ],
+    
+    "certifications": [
+        "AWS Developer Associate"
+    ],
+    
+    "open_source": [
+        "Contributor to React Testing Library",
+        "Maintainer of popular Node.js utility library"
+    ],
+    
+    "strengths": [
+        "All required technical skills",
+        "TypeScript expertise",
+        "GraphQL experience",
+        "Open-source contributor",
+        "Full-stack expertise",
+        "Mentoring experience"
+    ],
+    
+    "gaps": []
+}

@@ -1,0 +1,60 @@
+{
+    "id": "alice_johnson_001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@email.com",
+    "phone": "+1-555-0101",
+    "location": "San Francisco, CA",
+    "summary": "Senior Full-Stack Developer with 7+ years of experience building scalable web applications using React, Node.js, and cloud technologies. AWS certified with proven leadership experience.",
+    
+    "skills": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Node.js",
+        "PostgreSQL",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GraphQL",
+        "REST APIs",
+        "Git",
+        "CI/CD",
+        "Agile/Scrum"
+    ],
+    
+    "years_experience": 7,
+    
+    "education": "Master's degree in Computer Science from Stanford University",
+    
+    "experience": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "Tech Giants Inc.",
+            "duration": "2020 - Present",
+            "description": "Lead developer for customer-facing web applications. Architected microservices using Node.js and React. Managed team of 4 junior developers."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "StartupX",
+            "duration": "2017 - 2020",
+            "description": "Full-stack development using Python/Django and React. Implemented CI/CD pipelines with GitHub Actions."
+        }
+    ],
+    
+    "certifications": [
+        "AWS Solutions Architect - Professional",
+        "AWS Developer Associate"
+    ],
+    
+    "strengths": [
+        "Strong React and Node.js expertise",
+        "AWS certified professional",
+        "Team leadership experience",
+        "Microservices architecture",
+        "Full-stack development"
+    ],
+    
+    "gaps": []
+}
